@@ -1,0 +1,3 @@
+Notes:
+- This server is intentionally vulnerable for lab practice only.
+- Do not deploy outside a controlled environment.
