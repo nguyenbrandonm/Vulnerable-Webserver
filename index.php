@@ -1,23 +1,3 @@
-<?php
-/**
- * JumpBox Control Panel – Dashboard (index.php)
- *
- * Screenshot:
- * ![Dashboard](assets/screenshots/Index.png)
- *
- * Description:
- * - Primary landing page for the JumpBox web application
- * - Simulates an external-facing jump box discovered during reconnaissance
- * - Includes a fake terminal with navigation shortcuts and an easter egg
- *
- * Intended Vulnerabilities:
- * - Information disclosure
- * - User-driven navigation to insecure endpoints
- *
- * FOR LAB USE ONLY – INTENTIONALLY INSECURE
- */
-?>
-
 # Home rendering page
 <?php
 session_start();
