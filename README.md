@@ -1,4 +1,4 @@
-# 🕶️ JumpBox – Intentionally Vulnerable Apache Web Application
+# 🕶️ JumpBox – Intentionally Vulnerable Web Application
 
 ![JumpBox Control Panel](assets/JumpBox.png)
 
