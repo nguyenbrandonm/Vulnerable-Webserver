@@ -72,7 +72,6 @@ This repository contains **only the web application files**.
 It assumes:
 
 - Ubuntu is already installed
-- Apache and PHP are already configured and running
 - The user understands basic Linux web server administration
 
 To use the project:
